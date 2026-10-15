@@ -1,0 +1,24 @@
+ :SATISFY: 1/9 FALLING SAND  59 fps  MATERIAL=SAND  brush 3  NEON               
+                                                                                
+    +- KEYS --------------------------------------------------------------+     
+    | GLOBAL KEYS                                                         |     
+    |    1-9 / Tab ..... switch world      space ..... pause / resume     |     
+    |    h / ? ......... this help         c ......... clear the world    |     
+    |    t ............. next theme        a ......... auto-demo on/off   |     
+    |    [ ] wheel ..... brush size        , . ....... world option       |     
+    |    S ............. screenshot        q / Ctrl-C  quit cleanly       |     
+    | WORLDS                                                              |     
+    |    1 falling sand    2 game of life    3 water ripple               |     
+    |    4 particles       5 fireworks       6 boids                      |     
+    |    7 plasma          8 glyph rain      9 zen                        |     
+    | MOUSE                                                               |     
+    |    left button ... paint, attract     right button ... erase, repel |     
+    |    mouse move ... brush preview       wheel .......... brush size   |     
+    | NOTES                                                               |     
+    |    Every world has its own keys - see the bottom bar.               |     
+    |    Resize the terminal whenever you like; worlds adapt.             |     
+    |    The sand box holds 15 materials that react with each other.      |     
+    +---------------------------------------------------------------------+     
+                                                                                
+                                                                                
+  drag: paint  right: erase  wheel: brush  , .: m:Press:h:for:help:-:q:to:quit: 
